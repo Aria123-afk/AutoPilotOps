@@ -16,12 +16,4 @@
 - *Integrations*: Google Sheets, Google Calendar
 - *Deployment*: Vercel / AWS / Render
 
-## 🎯 Use Case
-
-AutoPilotOps helps small and medium businesses automate their daily operations such as:
-- Task tracking
-- Schedule generation
-- Meeting summaries
-- Report automation
-- AI-assisted workflow suggestions
 
