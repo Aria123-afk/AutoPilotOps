@@ -25,10 +25,3 @@ AutoPilotOps helps small and medium businesses automate their daily operations s
 - Report automation
 - AI-assisted workflow suggestions
 
-## 📦 How to Run Locally
-
-```bash
-git clone https://github.com/your-username/autopilotops.git
-cd autopilotops
-npm install
-npm start
